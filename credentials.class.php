@@ -9,5 +9,5 @@
     $url = $response[0]['name'];
     $port = $response[0]['port'];
     $username = "1Fa2uuQ3rLsYovnuzn7fvWZErg6Q4P3W1D";
-    $password = "LBP123123ground";
+    $password = "LBP123.123ground";
 ?>
