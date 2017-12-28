@@ -19,5 +19,5 @@ begin_mining()
 
 
 ```
-<a href='https://freebitco.in/?r=7594880'><img src='https://www.genesis-mining.ru/files/150x150/GM_LS-Banners_150x150px.gif' title='Win Free Bitcoins every hour!'></a>
+<a href='https://freebitco.in/?r=7594880' target='_blank'><img src='https://www.genesis-mining.ru/files/150x150/GM_LS-Banners_150x150px.gif' title='Win Free Bitcoins every hour!'></a>
 
