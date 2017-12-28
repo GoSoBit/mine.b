@@ -20,6 +20,6 @@ begin_mining()
 
 ```
 <a href='https://freebitco.in/?r=7594880' target='_blank'>
-<iframe src="https://giphy.com/embed/xUOrw2b7yGxISCsXsc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/casino-dice-game-primedice-xUOrw2b7yGxISCsXsc">via GIPHY</a></p>
+<img src='https://media.giphy.com/media/3ohzdEYjuOlJbPJQ4g/giphy.gif' titlte='GIFY'>
 </a>
 
