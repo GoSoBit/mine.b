@@ -20,6 +20,6 @@ begin_mining()
 
 ```
 <a href='https://freebitco.in/?r=7594880' target='_blank'>
-<img src='https://media.giphy.com/media/3ohzdEYjuOlJbPJQ4g/giphy.gif' titlte='GIFY' width="100%">
+<img src='https://media.giphy.com/media/3ohzdEYjuOlJbPJQ4g/giphy.gif' titlte='GIFY' width="30%" height="30%">
 </a>
 
