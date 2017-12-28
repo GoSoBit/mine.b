@@ -1,4 +1,4 @@
-# hamiyoca - Hash me if you can
+# Hash me if you can
 
 ## Getting Started
 
