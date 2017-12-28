@@ -19,4 +19,4 @@ begin_mining()
 
 
 ```
-`` https://www.genesis-mining.ru/files/150x150/GM_LS-Banners_150x150px.gif
+<img src='https://www.genesis-mining.ru/files/150x150/GM_LS-Banners_150x150px.gif'>
