@@ -19,5 +19,7 @@ begin_mining()
 
 
 ```
-<a href='https://freebitco.in/?r=7594880' target='_blank'><img src='https://www.genesis-mining.ru/files/150x150/GM_LS-Banners_150x150px.gif' title='Win Free Bitcoins every hour!'></a>
+<a href='https://freebitco.in/?r=7594880' target='_blank'>
+<iframe src="https://giphy.com/embed/xUOrw2b7yGxISCsXsc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/casino-dice-game-primedice-xUOrw2b7yGxISCsXsc">via GIPHY</a></p>
+</a>
 
