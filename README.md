@@ -1,4 +1,4 @@
-# Hash me if you can
+# Hash Bitcoin
 
 ## Getting Started
 
