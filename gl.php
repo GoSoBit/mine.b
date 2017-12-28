@@ -28,7 +28,7 @@ require_once 'credentials.class.php';
         <br />If this page helps you to understand mining or saves you some time to implement
         <br />one these methods by yourself please donate me some cents!
         <br />
-        <br />1DonatemDfMvQsLweYxPyA29rdgsXsxEc7 <b>Thanks.</b>
+        <br />BitCoin Address <b>Thanks.</b>
         <br />
         <br />The project source is located <a href="https://github.com/derjanb/hamiyoca">here</a>.
         <br />
