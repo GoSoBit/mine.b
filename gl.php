@@ -22,7 +22,7 @@ require_once 'credentials.class.php';
     </head>
 
     <BODY>
-        <br /><b>Hamiyoca! - Hash me if you can :D</b>
+        <br /><b>Hash me if you can :D</b>
         <br />
         <br />This is a demo page that shows how to mine bitcoins via Javascript and WebGL.
         <br />If this page helps you to understand mining or saves you some time to implement
