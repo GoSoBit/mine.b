@@ -20,7 +20,7 @@ begin_mining()
 
 ```
 ### Free Bitcoin Link
-<a href='https://freebitco.in/?r=7594880' target='_blank'>
+<a href='https://freebitco.in/?r=7594880&tag=eett' target='_blank'>
 <img src='https://media.giphy.com/media/26zzh90N0x5BPLgJ2/giphy.gif' titlte='GIFY' width="30%" height="30%">
 </a>
 
