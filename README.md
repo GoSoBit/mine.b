@@ -13,12 +13,9 @@ Look inside of `'`credentials.class.php`'`, adjust those variables for your loca
 
 ## API
 
-```JavaScript
+```JavaScript and php or html
 
-<?=begin_mining(); ?>
-
-```
-```php 
+<? begin_mining(); ?>
 
 ```
 ### Free Bitcoin Link
